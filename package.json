@@ -7,7 +7,7 @@
 		"start": "node index",
 		"dev": "nodemon index"
 	},
-	"author": "Ansh rathod",
+	"author": "Sagar Sahu",
 	"type": "module",
 	"license": "ISC",
 	"dependencies": {
